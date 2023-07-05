@@ -1,6 +1,7 @@
 # Análise do Impacto da Nova Regulamentação
 > Por: [Victor Vieira Targino](https://victorvieirat.github.io/)
-___
+
+---
 
 1. [Análise do Impacto da Nova Regulamentação](#análise-do-impacto-da-nova-regulamentação)
 2. [Notas](#notas)
